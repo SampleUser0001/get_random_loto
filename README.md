@@ -9,5 +9,5 @@ docker-compose up
 
 ## 参考
 
-[Github:SampleUser0001:CreateGraphByPhthon](https://github.com/SampleUser0001/CreateGraphByPython)
+[Github:SampleUser0001:CreateGraphByPhthon](https://github.com/SampleUser0001/CreateGraphByPython)  
 手前味噌
