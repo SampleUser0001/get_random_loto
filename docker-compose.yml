@@ -1,0 +1,7 @@
+version: '3'
+services:
+  loto7:
+    build: .
+    container_name: 'loto7'
+    volumes:
+      - ./app:/app
