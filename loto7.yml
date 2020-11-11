@@ -3,5 +3,6 @@ services:
   loto7:
     build: .
     container_name: 'loto7'
-    volumes:
-      - ./app:/app
+    environment: 
+      ENV: loto7
+      

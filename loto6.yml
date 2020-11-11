@@ -1,0 +1,8 @@
+version: '3'
+services:
+  loto6:
+    build: .
+    container_name: 'loto6'
+    environment: 
+      ENV: loto6
+      

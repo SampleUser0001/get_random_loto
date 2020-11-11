@@ -2,9 +2,16 @@
 
 ## 実行方法
 
+### loto7
 ```
-docker-compose build
-docker-compose up
+docker-compose -f loto7.yml build
+docker-compose -f loto7.yml up
+```
+
+### loto6
+```
+docker-compose -f loto6.yml build
+docker-compose -f loto6.yml up
 ```
 
 ## 参考
