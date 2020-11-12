@@ -1,4 +1,4 @@
-# get_randam_loto
+# get_random_loto
 
 ## 実行方法
 
