@@ -3,6 +3,8 @@ services:
   loto6:
     build: .
     container_name: 'loto6'
+    volumes:
+      - ./app:/app
     environment: 
       ENV: loto6
       
