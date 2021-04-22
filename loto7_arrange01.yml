@@ -7,4 +7,5 @@ services:
       - ./app:/app
     environment: 
       ENV: loto7
+      ARRANGE: arrange01
       
